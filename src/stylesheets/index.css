@@ -1,0 +1,50 @@
+.col {
+  padding: 10px
+}
+.col.alignLeft {
+  text-align: left;
+}
+.col.alignCenter {
+  text-align: center;
+}
+.col.alignRight {
+  text-align: right;
+}
+.row.bottomBorder {
+  border-bottom: 1px solid #000;
+}
+.row.topBorder {
+  border-top: 1px solid #000;
+}
+.col.latestCheck {
+  color: #28a745;
+  font-weight: bold;
+  padding-top: 20px;
+}
+table.dailyReadings td {
+  color: #28a745;
+  font-size: 13px;
+}
+.healthTipsHeader {
+  color: #28a745;
+  font-weight: bold;
+}
+.poseOfTheDay {
+  color: #28a745;
+  font-weight: bold;
+}
+#dialog_wrap {
+  border: 1px solid #28a745;
+}
+.chatBotOptions {
+  color: #28a745;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 10px;
+}
+#header_txt_title {
+  font-size: 25px;
+}
+.botMsg, .usrMsg, .msgTimestamp, #user_input {
+  font-size: 15px !important;
+}
