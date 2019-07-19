@@ -1,5 +1,5 @@
 {
-  "name": "GetMyPills",
+  "name": "C4U Mobile",
   "version": "1.0.0",
   "description": "This is the client web application using React, Node.js, Express and Webpack. It is configured with webpack-dev-server, eslint and babel. Tests are configured using Jest and Enzyme.",
   "main": "server/index.js",
@@ -25,7 +25,7 @@
       "\\.(css|less|scss|sass)$": "identity-obj-proxy"
     }
   },
-  "author": "G3NiU7",
+  "author": "Marwin Menezes",
   "license": "",
   "dependencies": {
     "axios": "^0.19.0",

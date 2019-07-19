@@ -1,0 +1,7 @@
+applications:
+  - path: .
+    name: C4U_mobile
+    environment_json: {}
+    memory: 512M
+    instances: 1
+    disk_quota: 2048M
