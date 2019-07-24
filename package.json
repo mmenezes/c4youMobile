@@ -1,5 +1,5 @@
 {
-  "name": "C4U Mobile",
+  "name": "Care4YouMobile",
   "version": "1.0.0",
   "description": "This is the client web application using React, Node.js, Express and Webpack. It is configured with webpack-dev-server, eslint and babel. Tests are configured using Jest and Enzyme.",
   "main": "server/index.js",
