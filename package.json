@@ -28,7 +28,7 @@
   "author": "Marwin Menezes",
   "license": "",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "connected-react-router": "^4.3.0",
     "cookies-js": "^1.2.3",
